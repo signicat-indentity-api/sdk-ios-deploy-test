@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		JFK1XzclP72GkMq0MEolm9Ae61U=
+		eNSh6vThMhPMVvGPnirTi8WkvFY=
 		</data>
 		<key>Modules/IdentitySDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/IdentitySDK.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		FstgQ7C+9KPq++4JXyZj4Aimb+o=
+		uVSNDsQikdfdxHLmC7zcnfbrT/s=
 		</data>
 		<key>Modules/IdentitySDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VKrVZl8sE/NPcezkCk6M8kBQwn4=
+		82y5VJXSghqUgVdC+wUnsZ9IUbY=
 		</data>
 		<key>Modules/IdentitySDK.swiftmodule/i386.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/IdentitySDK.swiftmodule/i386.swiftinterface</key>
 		<data>
-		FstgQ7C+9KPq++4JXyZj4Aimb+o=
+		uVSNDsQikdfdxHLmC7zcnfbrT/s=
 		</data>
 		<key>Modules/IdentitySDK.swiftmodule/i386.swiftmodule</key>
 		<data>
-		VKrVZl8sE/NPcezkCk6M8kBQwn4=
+		82y5VJXSghqUgVdC+wUnsZ9IUbY=
 		</data>
 		<key>Modules/IdentitySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/IdentitySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		e5wxUBnIbljbEbXiIL9Ip+i6cok=
+		qS9s7sVX+CizPu9HDgbTrWzWxu8=
 		</data>
 		<key>Modules/IdentitySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		BgZzGfQWXyfz6yt3VEW22h1WL/I=
+		PhnrKSYOV8ebprV5fw5Kof6Ty80=
 		</data>
 		<key>Modules/IdentitySDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/IdentitySDK.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		e5wxUBnIbljbEbXiIL9Ip+i6cok=
+		qS9s7sVX+CizPu9HDgbTrWzWxu8=
 		</data>
 		<key>Modules/IdentitySDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		BgZzGfQWXyfz6yt3VEW22h1WL/I=
+		PhnrKSYOV8ebprV5fw5Kof6Ty80=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -108,22 +108,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FstgQ7C+9KPq++4JXyZj4Aimb+o=
+			uVSNDsQikdfdxHLmC7zcnfbrT/s=
 			</data>
 			<key>hash2</key>
 			<data>
-			SGChbIzBywBU4e4jkS8X89LbANr6qSFS0KRHFi98/g4=
+			EkEBB84v2GdE7wssf4InTGEAO7OvOmTCME0WSMKRlqI=
 			</data>
 		</dict>
 		<key>Modules/IdentitySDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VKrVZl8sE/NPcezkCk6M8kBQwn4=
+			82y5VJXSghqUgVdC+wUnsZ9IUbY=
 			</data>
 			<key>hash2</key>
 			<data>
-			H6/dgGadfHqiik0qBOOFHdpHN5vZxEstXCFLYd/J+pc=
+			CPYdZ/O4C5rTZrfCv/ldyLoEOcOQTylBUPCpJquI7PQ=
 			</data>
 		</dict>
 		<key>Modules/IdentitySDK.swiftmodule/i386.swiftdoc</key>
@@ -141,22 +141,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FstgQ7C+9KPq++4JXyZj4Aimb+o=
+			uVSNDsQikdfdxHLmC7zcnfbrT/s=
 			</data>
 			<key>hash2</key>
 			<data>
-			SGChbIzBywBU4e4jkS8X89LbANr6qSFS0KRHFi98/g4=
+			EkEBB84v2GdE7wssf4InTGEAO7OvOmTCME0WSMKRlqI=
 			</data>
 		</dict>
 		<key>Modules/IdentitySDK.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VKrVZl8sE/NPcezkCk6M8kBQwn4=
+			82y5VJXSghqUgVdC+wUnsZ9IUbY=
 			</data>
 			<key>hash2</key>
 			<data>
-			H6/dgGadfHqiik0qBOOFHdpHN5vZxEstXCFLYd/J+pc=
+			CPYdZ/O4C5rTZrfCv/ldyLoEOcOQTylBUPCpJquI7PQ=
 			</data>
 		</dict>
 		<key>Modules/IdentitySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -174,22 +174,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			e5wxUBnIbljbEbXiIL9Ip+i6cok=
+			qS9s7sVX+CizPu9HDgbTrWzWxu8=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZAxzykj+HOlY2ttFV6naZOndsw9Rp1S/GSHIloI5BQc=
+			h2V2EWHo68c3KDrgJBtnZX5YFBCBq4oAPIOhxoisYS8=
 			</data>
 		</dict>
 		<key>Modules/IdentitySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BgZzGfQWXyfz6yt3VEW22h1WL/I=
+			PhnrKSYOV8ebprV5fw5Kof6Ty80=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xu1a53fRvJXYvNgqOJJ95vzAMvY0zZ7/Vs+lXrQHWrk=
+			09vSIH1u/3neIKkcnrCFzXrcmT3+ixN/6fttKNfwqYo=
 			</data>
 		</dict>
 		<key>Modules/IdentitySDK.swiftmodule/x86_64.swiftdoc</key>
@@ -207,22 +207,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			e5wxUBnIbljbEbXiIL9Ip+i6cok=
+			qS9s7sVX+CizPu9HDgbTrWzWxu8=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZAxzykj+HOlY2ttFV6naZOndsw9Rp1S/GSHIloI5BQc=
+			h2V2EWHo68c3KDrgJBtnZX5YFBCBq4oAPIOhxoisYS8=
 			</data>
 		</dict>
 		<key>Modules/IdentitySDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BgZzGfQWXyfz6yt3VEW22h1WL/I=
+			PhnrKSYOV8ebprV5fw5Kof6Ty80=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xu1a53fRvJXYvNgqOJJ95vzAMvY0zZ7/Vs+lXrQHWrk=
+			09vSIH1u/3neIKkcnrCFzXrcmT3+ixN/6fttKNfwqYo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
