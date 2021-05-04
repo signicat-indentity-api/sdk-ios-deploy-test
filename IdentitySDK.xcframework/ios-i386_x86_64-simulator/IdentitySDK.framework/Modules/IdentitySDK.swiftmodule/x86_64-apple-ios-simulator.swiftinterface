@@ -5,14 +5,20 @@ import Foundation
 @_exported import IdentitySDK
 import Swift
 import UIKit
+public enum IdentityError : Swift.Error, Swift.Equatable {
+  case internalError
+  case proceedRequestConnectionError(code: Swift.Int, message: Swift.String)
+  case proceedRequestHttpError(code: Swift.Int)
+  case completeRequestConnectionError(code: Swift.Int, message: Swift.String)
+  case completeRequestHttpError(code: Swift.Int)
+  case videoIDError(code: Swift.String, message: Swift.String)
+  public static func == (lhs: IdentitySDK.IdentityError, rhs: IdentitySDK.IdentityError) -> Swift.Bool
+}
 public class Identity {
   public init()
-  public func checkIdentity(forProceedToken token: Swift.String, hostViewController: UIKit.UIViewController, completionHandler: @escaping (Swift.Result<Swift.String, IdentitySDK.VideoIDError>) -> Swift.Void)
+  public func checkIdentity(forProceedToken token: Swift.String, hostViewController: UIKit.UIViewController, completionHandler: @escaping (IdentitySDK.IdentityError?) -> Swift.Void)
   public var frameworkVersion: Swift.String {
     get
   }
   @objc deinit
-}
-public enum VideoIDError : Swift.Error {
-  case someError(Swift.String)
 }
