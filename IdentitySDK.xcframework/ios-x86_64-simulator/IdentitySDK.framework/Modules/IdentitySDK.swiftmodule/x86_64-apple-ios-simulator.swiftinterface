@@ -13,7 +13,7 @@ public enum IdentityError : Swift.Error, Swift.Equatable {
   case videoIDError(code: Swift.String, message: Swift.String)
   public static func == (lhs: IdentitySDK.IdentityError, rhs: IdentitySDK.IdentityError) -> Swift.Bool
 }
-public enum SignatureError : Swift.Error {
+public enum SignatureError : Swift.Error, Swift.Equatable {
   case userCancelledProcess
   case internalError(url: Foundation.URL, code: Swift.Int)
   case requestError(url: Foundation.URL, code: Swift.Int, message: Swift.String)
@@ -27,7 +27,7 @@ extension SignatureError {
 public class Identity {
   public init()
   public func checkIdentity(forProceedToken token: Swift.String, hostViewController: UIKit.UIViewController, completionHandler: @escaping (IdentitySDK.IdentityError?) -> Swift.Void)
-  public func signPDFDocument(forProceedToken token: Swift.String, hostViewController: UIKit.UIViewController, completionHandler: @escaping (IdentitySDK.SignatureError?) -> Swift.Void)
+  public func startSignature(forProceedToken token: Swift.String, hostViewController: UIKit.UIViewController, completionHandler: @escaping (IdentitySDK.SignatureError?) -> Swift.Void)
   public var frameworkVersion: Swift.String {
     get
   }
